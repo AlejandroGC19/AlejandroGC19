@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Alejandro-GC 👋
+## About me
+Hello everyone! I'm Alejandro, an industrial engineer who worked for almost 2 years in a European project called KTTSeaDrones as software engineer and researcher. In this time, I used MATLAB to develop automatic control in a Remote Operated Vehicle, in addittion to the use of clustering with SONAR data for environment recognization. 
+
+During my time in university, I created some algorithms related to MATLAB (Hybrid hexapod robot) and Arduino.
+
+I currently work in the industrial field, but I would love to return to the world of software. So, I'm learning on my own web development, starting to create my first projects using HTML, CSS and JavaScript.
+
+## Contact me
+#### Email LinkedIn Infojobs
+
+## Techonologies used
+#### MATLAB HTML CSS JavaScript Arduino C++ Wireshark
+
+## Tech articles
