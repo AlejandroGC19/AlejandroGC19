@@ -14,6 +14,8 @@
 ![ROV Control Loop](https://user-images.githubusercontent.com/101363464/164090308-105a27e3-9e2a-486b-b0e3-4240b6fcdf2f.PNG)
 ![Control Heading](https://user-images.githubusercontent.com/101363464/164090652-08d90fce-6457-4558-8658-1aa35084a5dc.JPG | width=100)
 
+![Control Heading]]<img src="https://user-images.githubusercontent.com/101363464/164090652-08d90fce-6457-4558-8658-1aa35084a5dc.JPG" width=100>
+
 - 🦾 In addittion, during my time in the university, I created some algorithms related to a hybrid hexapod robot (in the same way as ROVs) in Matlab and Arduino. Also, I performed an HMI with Arduino in a touch screen, using real time processes and interactions.
 
 ![R3HC](https://user-images.githubusercontent.com/101363464/164090733-520f0420-ef7e-41b4-b57b-86d1888c49ad.png | width=100)
