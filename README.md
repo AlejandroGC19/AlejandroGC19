@@ -18,8 +18,8 @@
 
 ![R3HC](https://user-images.githubusercontent.com/101363464/164090733-520f0420-ef7e-41b4-b57b-86d1888c49ad.png | width=100)
 ![LIDAR VISION](https://user-images.githubusercontent.com/101363464/164090610-fa447d84-2f8e-40ea-ae74-d2532813cd7b.png | width=100)
-![ScreenArduino](https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG | width=100)
-
+![ScreenArduino](https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG width="100")
+<img src="https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG" width="100")
 
 ## Contact me 🎯
 #### Email LinkedIn Infojobs
