@@ -25,7 +25,7 @@
 **[Infojobs]**
 **[Freecodecamp]**
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
+- :office: I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
