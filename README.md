@@ -26,10 +26,10 @@
 **[Freecodecamp]**
 
 - My **[Email]** 
-- :seedling: &nbsp;I’m currently learning **Go**
+- :seedling: &nbsp;I’m currently learning **[LinkedIn]**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :mailbox: &nbsp;Ask me anything on my **[Infojobs]**
+- :computer: &nbsp;Connect with me on **[Freecodecamp]**
 
 <h3> Techonologies used 🎮 </h3>
 #### MATLAB HTML CSS JavaScript Arduino C++ Wireshark
