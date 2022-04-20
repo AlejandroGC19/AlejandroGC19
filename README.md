@@ -20,9 +20,18 @@
 <img src="https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG" width=300 alt="ScreenArduino">
 
 <h3> Contact me 🎯 </h3>
-#### Email LinkedIn Infojobs
+**[Email]** 
+**[LinkedIn]**
+**[Infojobs]**
+**[Freecodecamp]**
 
 <h3> Techonologies used 🎮 </h3>
 #### MATLAB HTML CSS JavaScript Arduino C++ Wireshark
 
 <h3> Tech articles 📄 </h3>
+
+<!-- LINKS -->
+[Email]: garrochocruzalejandro@gmail.com "Email"
+[LinkedIn]: https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn"
+<!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
+[Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"
