@@ -43,13 +43,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/101363464/164307167-2adc0168-74f5-4cd8-9897-f4a283ed9e23.jpg" width="48" height="48" alt="CSS" />
+        <img src="https://user-images.githubusercontent.com/101363464/164309824-6b8f1cf9-6f4f-4e46-8339-9d65ed40695a.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/101363464/164307170-4885f674-d5aa-43ca-8572-97da05218aff.jpg" width="48" height="48" alt="JavaScript" />
+        <img src="https://user-images.githubusercontent.com/101363464/164310263-07e3b1e3-f544-4bfc-9459-4c935cdc0a16.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
@@ -61,6 +61,8 @@
     </td>
   </tr>
 </table>
+
+
 
 <h3> Tech articles 📄 </h3>
 
