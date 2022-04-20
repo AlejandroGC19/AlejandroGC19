@@ -33,31 +33,31 @@
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/101363464/164307164-9a2a051b-9bbb-404c-b6a7-b28922187157.png" width="48" height="48" alt="MATLAB" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Matlab
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/101363464/164307166-ad2a3988-12d6-4cc3-8e41-c8bdaf9cffdc.png" width="48" height="48" alt="HTML" />
       </a>
-      <br>Python
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/101363464/164307167-2adc0168-74f5-4cd8-9897-f4a283ed9e23.jpg" width="48" height="48" alt="CSS" />
       </a>
-      <br>Go
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/101363464/164307170-4885f674-d5aa-43ca-8572-97da05218aff.jpg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Jsonnet
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/101363464/164307171-b9a19162-51d6-4719-834b-838033135ea3.png" width="48" height="48" alt="React.js" />
       </a>
-      <br>Jsonnet
+      <br>React
     </td>
   </tr>
 </table>
