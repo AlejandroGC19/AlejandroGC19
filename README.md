@@ -20,12 +20,12 @@
 <img src="https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG" width=300 alt="ScreenArduino">
 
 <h3> Contact me 🎯 </h3>
-**[Email]**-
-**[LinkedIn]**-
+**[Email]**
+**[LinkedIn]**
 **[Infojobs]**
 **[Freecodecamp]**
 
-- My **[Email]** <a href="mailto:garrochocruzalejandro@gmail.com">
+- My **[Email]** 
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
