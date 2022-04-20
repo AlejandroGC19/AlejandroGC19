@@ -20,11 +20,6 @@
 <img src="https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG" width=300 alt="ScreenArduino">
 
 <h3> Contact me 🎯 </h3>
-**[Email]**
-**[LinkedIn]**
-**[Infojobs]**
-**[Freecodecamp]**
-
 - My **[Email]** 
 - :seedling: &nbsp;I’m currently learning **[LinkedIn]**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
@@ -32,7 +27,40 @@
 - :computer: &nbsp;Connect with me on **[Freecodecamp]**
 
 <h3> Techonologies used 🎮 </h3>
-#### MATLAB HTML CSS JavaScript Arduino C++ Wireshark
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/101363464/164307164-9a2a051b-9bbb-404c-b6a7-b28922187157.png" width="48" height="48" alt="MATLAB" />
+      </a>
+      <br>C#&nbsp;(Core)
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/101363464/164307166-ad2a3988-12d6-4cc3-8e41-c8bdaf9cffdc.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/101363464/164307167-2adc0168-74f5-4cd8-9897-f4a283ed9e23.jpg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/101363464/164307170-4885f674-d5aa-43ca-8572-97da05218aff.jpg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/101363464/164307171-b9a19162-51d6-4719-834b-838033135ea3.png" width="48" height="48" alt="React.js" />
+      </a>
+      <br>Jsonnet
+    </td>
+  </tr>
+</table>
 
 <h3> Tech articles 📄 </h3>
 
@@ -41,7 +69,3 @@
 [LinkedIn]: https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn"
 <!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
 [Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
