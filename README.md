@@ -20,10 +20,10 @@
 <img src="https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG" width=300 alt="ScreenArduino">
 
 <h3> Contact me 🎯 </h3>
-- :seedling: &nbsp;I’m currently learning **[LinkedIn]**
+- :seedling: &nbsp;I’m currently learning **[LinkedIn](https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn")** 
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[Infojobs]**
-- :computer: &nbsp;Connect with me on **[Freecodecamp]**
+- :computer: &nbsp;Connect with me on **[Freecodecamp](https://www.freecodecamp.org/AlejandroGC19)**
 
 <h3> Techonologies used 🎮 </h3>
 <table>
