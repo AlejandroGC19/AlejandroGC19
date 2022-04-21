@@ -12,7 +12,7 @@
 
 - I worked for almost 2 years in the University of Huelva in a European project called KTTSeaDrones as software engineer and researcher. In this time, I used MATLAB (functional programming) to generate autonomy for a Remote Operated Vehicle. In this way, I have managed to create algorithms that allow the ROV to recognize its environment through the data of a SONAR (using clustering and data processing), representing them in a HMI, quantifying fish in real time and creating autonomy through an automatic control code. 
 
-<div align="center" style="display: grid; grid-gap: 150px; grid-auto-rows: minmax(100px, auto);">
+<div align="center" style="display: grid; grid-auto-rows: minmax(100px, auto);">
   <img src="https://user-images.githubusercontent.com/101363464/164089302-af9c44fa-6089-4e4c-8cd4-eabb4f90653c.png" height=300 alt="Quantifying Fish HMI">
   <img src="https://user-images.githubusercontent.com/101363464/164556407-8cacb156-8471-4695-bf2e-c1a6f41b24d3.PNG" height=300 alt="Control Heading">
 </div>
@@ -20,7 +20,7 @@
 
 - 🦾 In addittion, during my time in the university, I created some algorithms related to a hybrid hexapod robot (in the same way as ROVs) in Matlab and Arduino. Also, I performed an HMI with Arduino in a touch screen, using real time processes and interactions.
 
-<div align="center" style="display: grid; grid-gap: 150px; grid-auto-rows: minmax(100px, auto);">
+<div align="center" style="display: grid;">
   <img src="https://user-images.githubusercontent.com/101363464/164090733-520f0420-ef7e-41b4-b57b-86d1888c49ad.png" height=300 alt="R3HC">
   <img src="https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG" height=300 alt="ScreenArduino">
 </div>
