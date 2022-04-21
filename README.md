@@ -29,8 +29,8 @@
 - :office: &nbsp;I'm currently working at **[LinkedIn]**
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :mailbox: &nbsp;Ask me anything on my **[Freecodecamp]**
+- :computer: &nbsp;Connect with me on **[GitHub Pages]**
 
 <h3> Techonologies used 🎮 </h3>
 <table>
