@@ -66,8 +66,8 @@
 
 <h3> Tech articles 📄 </h3>
 
-<!-- LINKS -->
+<!-- LINKS 
 [Email]: garrochocruzalejandro@gmail.com "Email"
 [LinkedIn]: https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn"
-<!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
-[Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"
+<!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)
+[Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"-->
