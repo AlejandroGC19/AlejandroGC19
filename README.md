@@ -12,13 +12,7 @@
 
 - I worked for almost 2 years in the University of Huelva in a European project called KTTSeaDrones as software engineer and researcher. In this time, I used MATLAB (functional programming) to generate autonomy for a Remote Operated Vehicle. In this way, I have managed to create algorithms that allow the ROV to recognize its environment through the data of a SONAR (using clustering and data processing), representing them in a HMI, quantifying fish in real time and creating autonomy through an automatic control code. 
 
-<div align="center" <style> 
-    display: grid; 
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
-    grid-auto-rows: minmax(100px, auto);
-  </style>> 
-  
+<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; grid-auto-rows: minmax(100px, auto);">
   <img src="https://user-images.githubusercontent.com/101363464/164089302-af9c44fa-6089-4e4c-8cd4-eabb4f90653c.png" width=300 alt="Quantifying Fish HMI">
   <img src="https://user-images.githubusercontent.com/101363464/164090308-105a27e3-9e2a-486b-b0e3-4240b6fcdf2f.PNG" width=300 alt="ROV Control Loop">
   <img src="https://user-images.githubusercontent.com/101363464/164090652-08d90fce-6457-4558-8658-1aa35084a5dc.JPG" width=300 alt="Control Heading">
@@ -89,7 +83,7 @@
 
 <hr>
 
-<footer align="center"> Email: garrochocruzlaejandro@gmail.com </footer>
+<h4 align="center"> Email: garrochocruzlaejandro@gmail.com </h4>
 
 <!-- LINKS -->
 [LinkedIn]: https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn"
