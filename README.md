@@ -44,19 +44,19 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/101363464/164307166-ad2a3988-12d6-4cc3-8e41-c8bdaf9cffdc.png" width="48" height="48" alt="HTML" />
+        <img src="https://user-images.githubusercontent.com/101363464/164551521-63ca7864-8647-4f09-9284-771ecc388164.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/101363464/164309824-6b8f1cf9-6f4f-4e46-8339-9d65ed40695a.png" width="48" height="48" alt="CSS" />
+        <img src="https://user-images.githubusercontent.com/101363464/164551523-2a3a844d-d0ad-417d-94bd-a33793d2fed2.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/101363464/164310263-07e3b1e3-f544-4bfc-9459-4c935cdc0a16.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://user-images.githubusercontent.com/101363464/164551516-53047b09-d5be-4d97-acb4-96a12f028394.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
@@ -65,6 +65,12 @@
         <img src="https://user-images.githubusercontent.com/101363464/164307171-b9a19162-51d6-4719-834b-838033135ea3.png" width="48" height="48" alt="React.js" />
       </a>
       <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/101363464/164551520-5e87f9da-35a7-41bb-8e75-f2403b3a5d27.png" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
     </td>
   </tr>
 </table>
