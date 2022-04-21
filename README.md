@@ -77,7 +77,7 @@
 <!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
 [Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"
 [GitHub Pages]: https://pages.github.com/
-
+<!--
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"-->
