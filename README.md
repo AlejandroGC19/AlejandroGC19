@@ -22,7 +22,7 @@
 <h3> Contact me 🎯 </h3>
 - :seedling: &nbsp;I’m currently learning [LinkedIn](https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn")
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[Infojobs]**
+- :mailbox: &nbsp;Ask me anything on my **Infojobs**
 - :computer: &nbsp;Connect with me on [Freecodecamp](https://www.freecodecamp.org/AlejandroGC19)
 - Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
 
@@ -66,8 +66,8 @@
 
 <h3> Tech articles 📄 </h3>
 
-<!-- LINKS 
-[Email]: garrochocruzalejandro@gmail.com "Email"
+<!-- LINKS -->
 [LinkedIn]: https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn"
-<!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)
-[Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"-->
+<!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
+[Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"
+[GitHub Pages]: https://pages.github.com/
