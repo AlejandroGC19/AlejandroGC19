@@ -24,6 +24,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **[Infojobs]**
 - :computer: &nbsp;Connect with me on [Freecodecamp](https://www.freecodecamp.org/AlejandroGC19)
+- Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
 
 <h3> Techonologies used 🎮 </h3>
 <table>
