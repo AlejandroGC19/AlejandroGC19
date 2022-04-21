@@ -26,6 +26,12 @@
 - :computer: &nbsp;Connect with me on [Freecodecamp]
 - Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
 
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently learning **Go**
+- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
 <h3> Techonologies used 🎮 </h3>
 <table>
   <tr>
@@ -71,3 +77,7 @@
 <!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
 [Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"
 [GitHub Pages]: https://pages.github.com/
+
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
