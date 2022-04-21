@@ -68,12 +68,10 @@
 
 
 <h3> Tech articles 📄 </h3>
-- &nbsp;**[R3HC]**
-- &nbsp;**[ROV]**
-- &nbsp;**[GitHub Pages]**
+
 
 <!-- LINKS -->
 [LinkedIn]: https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn"
 <!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
-[Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"
+[Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freecodecamp"
 [GitHub Pages]: https://github.com/AlejandroGC19
