@@ -23,6 +23,7 @@
 - &nbsp;**[LinkedIn]**
 - &nbsp;**[Freecodecamp]**
 - &nbsp;**[GitHub Pages]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 <!--
 - :seedling: &nbsp;I’m currently learning **React**
 - :speech_balloon: &nbsp;I like to talk about **Sports** and **Sciences**
@@ -75,3 +76,4 @@
 <!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
 [Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freecodecamp"
 [GitHub Pages]: https://github.com/AlejandroGC19
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
