@@ -23,7 +23,7 @@
 - :seedling: &nbsp;I’m currently learning [LinkedIn](https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn")
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
 - :mailbox: &nbsp;Ask me anything on my **Infojobs**
-- :computer: &nbsp;Connect with me on [Freecodecamp](https://www.freecodecamp.org/AlejandroGC19)
+- :computer: &nbsp;Connect with me on [Freecodecamp]
 - Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
 
 <h3> Techonologies used 🎮 </h3>
