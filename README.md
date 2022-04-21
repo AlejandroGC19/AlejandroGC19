@@ -21,7 +21,6 @@
 - 🦾 In addittion, during my time in the university, I created some algorithms related to a hybrid hexapod robot (in the same way as ROVs) in Matlab and Arduino. Also, I performed an HMI with Arduino in a touch screen, using real time processes and interactions.
 
   <img src="https://user-images.githubusercontent.com/101363464/164090733-520f0420-ef7e-41b4-b57b-86d1888c49ad.png" width=300 alt="R3HC">
-  <img src="https://user-images.githubusercontent.com/101363464/164090610-fa447d84-2f8e-40ea-ae74-d2532813cd7b.png" width=300 alt="LIDAR VISION">
   <img src="https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG" width=300 alt="ScreenArduino">
 
 <h3> Contact me 🎯 </h3>
