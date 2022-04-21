@@ -1,12 +1,15 @@
 <h1> Hello world! I'm Alejandro 😏👋 </h1>
 
 <h3> About me 🧑 </h3>
+
 - I am a 26-year-old software engineer with almost two years of experience in Matlab development. I am a passionate about computing world, in constant self-learning and/or taking courses on current topics to improve my professional skills. 🙌
 
 <h3> Current job 👨‍💼 </h3>
+
 - I’m currently working as industrial engineer, but I would like to work as sotfware or front-end developer. For this reason, I'm already learning about HTML, CSS, JavaScript and React (for now, when I start working as front end developer, I would like to start learning about backend scope). 
 
 <h3> Experience 👨‍💻 </h3>
+
 - I worked for almost 2 years in the University of Huelva in a European project called KTTSeaDrones as software engineer and researcher. In this time, I used MATLAB (functional programming) to generate autonomy for a Remote Operated Vehicle. In this way, I have managed to create algorithms that allow the ROV to recognize its environment through the data of a SONAR (using clustering and data processing), representing them in a HMI, quantifying fish in real time and creating autonomy through an automatic control code. 
 
 <img src="https://user-images.githubusercontent.com/101363464/164089302-af9c44fa-6089-4e4c-8cd4-eabb4f90653c.png" width=300 alt="Quantifying Fish HMI">
@@ -23,12 +26,6 @@
 - &nbsp;**[LinkedIn]**
 - &nbsp;**[Freecodecamp]**
 - &nbsp;**[GitHub Pages]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-<!--
-- :seedling: &nbsp;I’m currently learning **React**
-- :speech_balloon: &nbsp;I like to talk about **Sports** and **Sciences**
-- :mailbox: &nbsp;Ask me anything on my **[Freecodecamp]**
-- :computer: &nbsp;Connect with me on **[GitHub Pages]**-->
 
 <h3> Techonologies used 🎮 </h3>
 <table>
@@ -76,4 +73,3 @@
 <!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
 [Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freecodecamp"
 [GitHub Pages]: https://github.com/AlejandroGC19
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
