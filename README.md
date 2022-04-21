@@ -8,8 +8,7 @@
 
 <h3> Experience 👨‍💻 </h3>
 - I worked for almost 2 years in the University of Huelva in a European project called KTTSeaDrones as software engineer and researcher. In this time, I used MATLAB (functional programming) to generate autonomy for a Remote Operated Vehicle. In this way, I have managed to create algorithms that allow the ROV to recognize its environment through the data of a SONAR (using clustering and data processing), representing them in a HMI, quantifying fish in real time and creating autonomy through an automatic control code. 
-
-<img src="https://user-images.githubusercontent.com/101363464/164089302-af9c44fa-6089-4e4c-8cd4-eabb4f90653c.png" width=300 alt="Quantifying Fish HMI">
+<div align="center"><img src="https://user-images.githubusercontent.com/101363464/164089302-af9c44fa-6089-4e4c-8cd4-eabb4f90653c.png" width=300 alt="Quantifying Fish HMI"></div>
 <img src="https://user-images.githubusercontent.com/101363464/164090308-105a27e3-9e2a-486b-b0e3-4240b6fcdf2f.PNG" width=300 alt="ROV Control Loop">
 <img src="https://user-images.githubusercontent.com/101363464/164090652-08d90fce-6457-4558-8658-1aa35084a5dc.JPG" width=300 alt="Control Heading">
 
@@ -20,17 +19,14 @@
 <img src="https://user-images.githubusercontent.com/101363464/164091254-9687bac1-c6c3-41f6-86c1-39e3c1d52ec8.PNG" width=300 alt="ScreenArduino">
 
 <h3> Contact me 🎯 </h3>
-<!--- :seedling: &nbsp;I’m currently learning [LinkedIn](https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn")
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **Infojobs**
-- :computer: &nbsp;Connect with me on [Freecodecamp]
-- Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).-->
-
 - &nbsp;**[LinkedIn]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- &nbsp;**[Freecodecamp]**
+- &nbsp;**[GitHub Pages]**
+<!--
+- :seedling: &nbsp;I’m currently learning **React**
+- :speech_balloon: &nbsp;I like to talk about **Sports** and **Sciences**
 - :mailbox: &nbsp;Ask me anything on my **[Freecodecamp]**
-- :computer: &nbsp;Connect with me on **[GitHub Pages]**
+- :computer: &nbsp;Connect with me on **[GitHub Pages]**-->
 
 <h3> Techonologies used 🎮 </h3>
 <table>
@@ -71,9 +67,12 @@
 
 
 <h3> Tech articles 📄 </h3>
+- &nbsp;**[R3HC]**
+- &nbsp;**[ROV]**
+- &nbsp;**[GitHub Pages]**
 
 <!-- LINKS -->
 [LinkedIn]: https://www.linkedin.com/in/garrochocruzalejandro/ "LinkedIn"
 <!-- [Infojobs]: https://www.linkedin.com/in/colvinjm "Infojobs" (outdated)-->
 [Freecodecamp]: https://www.freecodecamp.org/AlejandroGC19 "Freeodecamp"
-[GitHub Pages]: https://pages.github.com/
+[GitHub Pages]: https://github.com/AlejandroGC19
