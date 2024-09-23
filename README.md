@@ -2,7 +2,7 @@
 
 <h3> About me 🧑 </h3>
 
-- I am a 26-year-old software engineer with almost two years of experience in Matlab development. I am a passionate about computing world, in constant self-learning and/or taking courses on current topics to improve my professional skills. 🙌
+- I am a software engineer with almost two years of experience in Matlab development. I am a passionate about computing world, in constant self-learning and/or taking courses on current topics to improve my professional skills. 🙌
 
 <h3> Current job 👨‍💼 </h3>
 
