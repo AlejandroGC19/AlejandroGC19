@@ -4,8 +4,6 @@
 
 - I am a software engineer with almost two years of experience in Matlab development. I am a passionate about computing world, in constant self-learning and taking courses on current topics to improve my professional skills. 🙌
 
-<h3> Current job 👨‍💼 </h3>
-
 - I have been working as an industrial engineer for more than two years, but I would like to work as a software developer as in my research period at university, because I feel that this branch of technology gets the best of my skills. For this reason, I have taken several courses to learn the most demanded software as a full-stack developer in the industry in order to follow my professional path in this field.
 
 <h3> Experience as developer 👨‍💻 </h3>
