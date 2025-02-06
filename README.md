@@ -2,13 +2,13 @@
 
 <h3> About me 🧑 </h3>
 
-- I am a software engineer with almost two years of experience in Matlab development. I am a passionate about computing world, in constant self-learning and/or taking courses on current topics to improve my professional skills. 🙌
+- I am a software engineer with almost two years of experience in Matlab development. I am a passionate about computing world, in constant self-learning and taking courses on current topics to improve my professional skills. 🙌
 
 <h3> Current job 👨‍💼 </h3>
 
-- I’m currently working as industrial engineer, but I would like to work as sotfware or front-end developer. For this reason, I'm already learning about HTML, CSS, JavaScript and React (for now, when I start working as front end developer, I would like to start learning about backend scope). 
+- I have been working as an industrial engineer for more than two years, but I would like to work as a software developer as in my research period at university, because I feel that this branch of technology gets the best of my skills. For this reason, I have taken several courses to learn the most demanded software as a full-stack developer in the industry in order to follow my professional path in this field.
 
-<h3> Experience 👨‍💻 </h3>
+<h3> Experience as developer 👨‍💻 </h3>
 
 - I worked for almost 2 years in the University of Huelva in a European project called KTTSeaDrones as software engineer and researcher. In this time, I used MATLAB (functional programming) to generate autonomy for a Remote Operated Vehicle. In this way, I have managed to create algorithms that allow the ROV to recognize its environment through the data of a SONAR (using clustering and data processing), representing them in a HMI, quantifying fish in real time and creating autonomy through an automatic control code. 
 
@@ -64,12 +64,6 @@
         <img src="https://user-images.githubusercontent.com/101363464/164307171-b9a19162-51d6-4719-834b-838033135ea3.png" width="48" height="48" alt="React.js" />
       </a>
       <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/101363464/164551520-5e87f9da-35a7-41bb-8e75-f2403b3a5d27.png" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
     </td>
   </tr>
 </table>
