@@ -6,7 +6,7 @@
 
 - At the beginning of my professional career, I worked as a software engineer for two years researching the development of a water vehicle in Matlab. I am passionate about the world of computer science, constantly self-learning and taking courses on current topics to improve my professional skills. 🙌
 
-<h3> Experience as developer 👨‍💻 </h3>
+<h3> First steps as developer 👨‍💻 </h3>
 
 - I worked for almost 2 years in the University of Huelva in a European project called KTTSeaDrones as software engineer and researcher. In this time, I used MATLAB (functional programming) to generate autonomy for a Remote Operated Vehicle. In this way, I have managed to create algorithms that allow the ROV to recognize its environment through the data of a SONAR (using clustering and data processing), representing them in a HMI, quantifying fish in real time and creating autonomy through an automatic control code. 
 
